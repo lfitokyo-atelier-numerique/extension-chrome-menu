@@ -1,1 +1,3 @@
-# 🍜 Extension Chrome pour afficher le menu du jour à la cantine
+# 🍜 Extension Chrome Menu
+
+Affichage du menu du jour à la cantine
