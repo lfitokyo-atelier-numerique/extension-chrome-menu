@@ -1,4 +1,6 @@
 {
+  "description" : "Menus du mois de la cantine du LFI Tokyo",
+  "url" : "https://www.lfitokyo.org/index.php/menus-cantine",
   "annee" : 2022,
   "mois": 4,
   "menus": {
